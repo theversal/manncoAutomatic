@@ -1,0 +1,26 @@
+{
+        "mpKey": "",
+        "name": "",
+        "password": "",
+        "id": "*REQUIRED*",
+        "twoFactorCode": "",
+        "server": "*REQUIRED*",
+        "cookie": "token=*REQUIRED*; steamid=*REQUIRED*;",
+        "cookieAnonim": "",
+        "linktomp": "",
+        "data": "./app/json/data.json",
+        "price": "./Price.json",
+        "marketData": "./app/json/marketplace.json",
+        "proxy":{
+	    	"username": "",
+	    	"password": "",
+	    	"host": "",
+	    	"port": ""
+	    },
+        "anonproxy":{
+                "username": "",
+                "password": "",
+                "host": "",
+                "port": ""
+            }
+}

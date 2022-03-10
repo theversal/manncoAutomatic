@@ -1,0 +1,29 @@
+{
+  "name": "manncoAutomatic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Versal",
+    "email": "theversal@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "cloudscraper": "^4.6.0",
+    "colors": "^1.4.0",
+    "csvjson": "^5.1.0",
+    "fs": "0.0.1-security",
+    "https-proxy-agent": "^5.0.0",
+    "mongodb": "^3.6.6",
+    "node-fetch": "^2.6.7",
+    "request": "^2.88.2",
+    "tress": "^1.1.4",
+    "tunnel": "0.0.6",
+    "urlencode": "^1.1.0"
+  }
+}
